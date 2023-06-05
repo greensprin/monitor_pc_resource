@@ -60,7 +60,9 @@ typeperf_target.txtに表示させたいカウンターを1行に1つ書いて�
 typeperf -cf typeperf_target.txt
 ```
 
-```txt:typeperf_target.txt
+typeperf_target.txtは以下のように記載する
+
+```txt
 \Processor Information(_Total)\% Processor Time
 \Memory\Available MBytes
 \PhysicalDisk(_Total)\% Disk Time
