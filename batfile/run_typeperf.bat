@@ -1,0 +1,1 @@
+call typeperf -cf typeperf_target.txt
